@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/powerlist-react-app/static/css/main.7ec619bf.css",
+    "main.js": "/powerlist-react-app/static/js/main.99936c43.js",
+    "index.html": "/powerlist-react-app/index.html",
+    "main.7ec619bf.css.map": "/powerlist-react-app/static/css/main.7ec619bf.css.map",
+    "main.99936c43.js.map": "/powerlist-react-app/static/js/main.99936c43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ec619bf.css",
+    "static/js/main.99936c43.js"
+  ]
+}
